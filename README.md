@@ -11,7 +11,6 @@
 </p>
 
 <br />
-<br />
 
 <h3 align="center"  style="margin-bottom:30px; "><b>🛠 Skills 🛠</b></h3>
 <p align="center">
@@ -31,3 +30,8 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> &nbsp
 
 </p>
+
+
+<br />
+<br />
+<br />
