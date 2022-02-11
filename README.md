@@ -7,14 +7,14 @@ FE개발자가 되고싶은 김남경 입니다. <br/>
 기계공학을 전공했으나 프로그래밍이 더 재미있어서 독학으로 공부 하고 있습니다.<br />
 1일 1커밋을 실천중 입니다. <br />
 
-**githubBlog** <br/>
+**githubBlog :** 
 <a href="https://NamgyungKim.github.io/">
-<img src="http://img.shields.io/badge/-GitHub%20blog-black?style=flat-square&logo=github&link=https://NamgyungKim.github.io/"/> &nbsp
+<img src="http://img.shields.io/badge/-GitHub%20blog-black?style=flat-square&logo=github&link=https://NamgyungKim.github.io/"/>
 </a>
 
-**Email** <br/>
+**Email :** 
 <a href="mailto:namgyung.kim@gmail.com">
-<img src="https://img.shields.io/badge/namgyung.kim@gmail.com-4A86CF?style=flat-square&logo=Gmail&logoColor=white" />&nbsp
+<img src="https://img.shields.io/badge/namgyung.kim@gmail.com-4A86CF?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
 <br />
@@ -46,6 +46,7 @@ FE개발자가 되고싶은 김남경 입니다. <br/>
 
 **Studying :**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+
 **Project :** [https://github.com/TranslationTalk/Front-End](https://github.com/TranslationTalk/Front-End)
 <br />
 <br />
