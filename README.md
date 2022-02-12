@@ -8,7 +8,7 @@ FE개발자가 되고싶은 김남경 입니다. <br/>
 1일 1커밋을 실천중 입니다. <br />
 
 **githubBlog :** 
-[![githubBlog](http://img.shields.io/badge/-GitHub%20blog-black?style=flat-square&logo=github")](https://NamgyungKim.github.io/)
+[![githubBlog](https://img.shields.io/badge/-GitHub%20blog-black?style=flat-square&logo=github")](https://NamgyungKim.github.io/)
 
 **Email :** 
 [![Email](https://img.shields.io/badge/namgyung.kim@gmail.com-4A86CF?style=flat-square&logo=Gmail&logoColor=white)](mailto:namgyung.kim@gmail.com)
