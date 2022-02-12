@@ -7,8 +7,8 @@ FE개발자가 되고싶은 김남경 입니다. <br/>
 기계공학을 전공했지만 프로그래밍이 더 재미있어서 독학으로 공부 하고 있습니다.<br />
 1일 1커밋을 실천중 입니다. <br />
 
-**githubBlog :** 
-[![githubBlog](https://img.shields.io/badge/-GitHub%20blog-black?style=flat-square&logo=github")](https://NamgyungKim.github.io/)
+**GitHub Blog :** 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://NamgyungKim.github.io/)
 
 **Email :** 
 [![Email](https://img.shields.io/badge/namgyung.kim@gmail.com-4A86CF?style=flat-square&logo=Gmail&logoColor=white)](mailto:namgyung.kim@gmail.com)
