@@ -8,14 +8,10 @@ FE개발자가 되고싶은 김남경 입니다. <br/>
 1일 1커밋을 실천중 입니다. <br />
 
 **githubBlog :** 
-<a href="https://NamgyungKim.github.io/">
-<img src="http://img.shields.io/badge/-GitHub%20blog-black?style=flat-square&logo=github&link=https://NamgyungKim.github.io/"/>
-</a>
+[![githubBlog](http://img.shields.io/badge/-GitHub%20blog-black?style=flat-square&logo=github&link=https://NamgyungKim.github.io/")](https://NamgyungKim.github.io/)
 
 **Email :** 
-<a href="mailto:namgyung.kim@gmail.com">
-<img src="https://img.shields.io/badge/namgyung.kim@gmail.com-4A86CF?style=flat-square&logo=Gmail&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/namgyung.kim@gmail.com-4A86CF?style=flat-square&logo=Gmail&logoColor=white)](mailto:namgyung.kim@gmail.com)
 
 <br />
 <br />
