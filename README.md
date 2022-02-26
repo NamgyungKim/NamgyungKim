@@ -42,7 +42,7 @@ FE개발자가 되고싶은 김남경 입니다. <br/>
 **Studying :**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 
-**Project :** [https://github.com/TranslationTalk/Front-End](https://github.com/TranslationTalk/Front-End)
+**원티드 프리온보딩** 
 <br />
 <br />
 <br />
