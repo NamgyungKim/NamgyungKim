@@ -42,7 +42,9 @@ FE개발자가 되고싶은 김남경 입니다. <br/>
 **Studying :**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 
-**원티드 프리온보딩** 
+**원티드 프리온보딩**   
+**프로그래머스 프론트엔드 데브코스**
+
 <br />
 <br />
 <br />
