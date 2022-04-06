@@ -40,10 +40,13 @@ FE개발자가 되고싶은 김남경 입니다. <br/>
 
 <!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> -->
 
-# 🏃‍♀️ Doing
+# 📄 project
 
-**Studying :**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
+- [번역톡](https://github.com/NamgyungKim/TranslationTalk)
+
+<br/>
+
+# 🏃‍♀️ Doing
  
 **프로그래머스 프론트엔드 데브코스**
 
