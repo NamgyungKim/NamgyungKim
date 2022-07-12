@@ -41,8 +41,8 @@ FE개발자가 되고싶은 김남경 입니다. <br/>
 <!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> -->
 
 # 📄 project
-
-- [번역톡](https://github.com/NamgyungKim/TranslationTalk)
+- [2JAVATAYO-2022](https://github.com/prgrms-fe-devcourse/FEDC2_2JAVATAYO_Dongyoung)
+- [번역톡-2022](https://github.com/NamgyungKim/TranslationTalk)
 
 <br/>
 
