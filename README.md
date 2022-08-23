@@ -2,12 +2,10 @@
 
 # 🤗 ABOUT ME
 
-안녕하세요. <br/>
-FE개발자가 되고싶은 김남경 입니다. <br/>
-1일 1커밋을 실천중 입니다. <br />
-
-**GitHub Blog :** 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://NamgyungKim.github.io/)
+안녕하세요~  
+꾸준함을 이기는건 없다고 생각합니다.  
+매일 조금씩이라도 꾸준히 발전하는 개발자가 되겠습니다  
+아래는 제 대표 프로젝트 입니다
 
 **Email :** 
 [![Email](https://img.shields.io/badge/namgyung.kim@gmail.com-4A86CF?style=flat-square&logo=Gmail&logoColor=white)](mailto:namgyung.kim@gmail.com)
@@ -15,41 +13,45 @@ FE개발자가 되고싶은 김남경 입니다. <br/>
 <br />
 <br />
 
-# 🛠 Skills
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
-<br />
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
-![React Router](https://img.shields.io/badge/ReactRouter-CA4245?style=flat-square&logo=ReactRouter&logoColor=white)
-<br />
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
-<br />
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
-![PostCSS](https://img.shields.io/badge/PostCSS-DD3A0A?style=flat-square&logo=PostCSS&logoColor=white)
-![styled_components](https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-<br />
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-<br />
-<br />
-
-<!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/> -->
-
 # 📄 project
-- [LinkOcean-2022](https://github.com/prgrms-web-devcourse/Team-Meoguri-Linkocean-FE)
-- [2JAVATAYO-2022](https://github.com/prgrms-fe-devcourse/FEDC2_2JAVATAYO_Dongyoung)
-- [번역톡-2022](https://github.com/NamgyungKim/TranslationTalk)
+### LinkOcean-2022
+소셜 북마킹 서비스 입니다  
+repo: https://github.com/prgrms-web-devcourse/Team-Meoguri-Linkocean-FE  
+사용기술 스택  
+  ![Next.js](https://img.shields.io/badge/Next.js-ddd?style=flat-square&logo=Next.js&logoColor=000)
+  ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=ts-node&logoColor=fff)
+  ![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=flat-square)
+  ![StoryBook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=fff)  
+  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=fff)
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=fff)
+  ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=fff)
+  
+<br />
 
-<br/>
+### 2JAVATAYO-2022
+사이드 팀 프로젝트를 하고 싶은 분들을 위한 팀원 모집 서비스입니다.  
+repo: https://github.com/prgrms-fe-devcourse/FEDC2_2JAVATAYO_Dongyoung  
+사용기술 스택  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000)
+  ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=ts-node&logoColor=fff)
+  ![Emotion](https://img.shields.io/badge/Emotion-DB7093?style=flat-square)
+  ![StoryBook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=fff)  
+  ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=fff)
+  ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=fff)
+  ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=fff)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=fff)
+  
+<br />
 
-# 🏃‍♀️ Doing
- 
-**프로그래머스 프론트엔드 데브코스**
+### 번역톡-2022
+번역 요청을 하고 싶은 의뢰자와 번역가를 매칭해주는 웹 어플리케이션 입니다.  
+repo: https://github.com/NamgyungKim/TranslationTalk   
+사용기술 스택  
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000)
+  ![styled_components](https://img.shields.io/badge/styled_components-DB7093?style=flat-square&logo=styled-components&logoColor=white)  
+  ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=fff)
+
+
 
 <br />
 <br />
