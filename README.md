@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=250&section=header&text=Namgyung%20Kim&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=54&descAlign=62)
 
 # 🤗 ABOUT ME
+유지보수성과 확장성을 고려한 개발을 지향하는 개발자입니다.   
+Nuxt.js, NestJS, Electron 등을 활용하여 웹과 데스크탑 애플리케이션을 개발하며, 백오피스 시스템 및 다양한 서비스 구축 경험이 있습니다.  
+아키텍처 설계부터 구현까지 효율적인 개발을 고민하며, 새로운 기술을 빠르게 익혀 실무에 적용하는 것을 좋아합니다.   
 
-안녕하세요~  
-꾸준함을 이기는건 없다고 생각합니다.  
-매일 조금씩이라도 꾸준히 발전하는 개발자가 되겠습니다  
 
 **Portfolio :** 
 [🔗 포트폴리오 링크](https://drive.google.com/file/d/1mfK77etnNQmL9lhePphZ7NKJKu-2l8rQ/view?usp=drive_link)  
