@@ -6,6 +6,10 @@
 꾸준함을 이기는건 없다고 생각합니다.  
 매일 조금씩이라도 꾸준히 발전하는 개발자가 되겠습니다  
 
+**Portfolio :** 
+[🔗 포트폴리오 링크](https://drive.google.com/file/d/1mfK77etnNQmL9lhePphZ7NKJKu-2l8rQ/view?usp=drive_link)  
+
+
 **Email :** 
 [![Email](https://img.shields.io/badge/namgyung.kim@gmail.com-4A86CF?style=flat-square&logo=Gmail&logoColor=white)](mailto:namgyung.kim@gmail.com)
 
