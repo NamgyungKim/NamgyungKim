@@ -6,8 +6,8 @@ Nuxt.js, NestJS, Electron 등을 활용하여 웹과 데스크탑 애플리케�
 아키텍처 설계부터 구현까지 효율적인 개발을 고민하며, 새로운 기술을 빠르게 익혀 실무에 적용하는 것을 좋아합니다.   
 
 
-**Portfolio :** 
-[🔗 포트폴리오 링크](https://drive.google.com/file/d/1mfK77etnNQmL9lhePphZ7NKJKu-2l8rQ/view?usp=drive_link)  
+# **Portfolio :** 
+# [🔗 포트폴리오 링크](https://drive.google.com/file/d/1mfK77etnNQmL9lhePphZ7NKJKu-2l8rQ/view?usp=drive_link)  
 
 
 **Email :** 
