@@ -11,6 +11,7 @@ Nuxt.js, NestJS, Electron 등을 활용하여 웹과 데스크탑 애플리케�
 <!-- **Portfolio :** -->
 <!-- [🔗 포트폴리오 링크](https://drive.google.com/file/d/1mfK77etnNQmL9lhePphZ7NKJKu-2l8rQ/view?usp=drive_link)  -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namgyungkim&layout=compact&theme=dark)
 
 **Email :** 
 [![Email](https://img.shields.io/badge/namgyung.kim@gmail.com-4A86CF?style=flat-square&logo=Gmail&logoColor=white)](mailto:namgyung.kim@gmail.com)
