@@ -5,6 +5,8 @@
 Nuxt.js, NestJS, Electron 등을 활용하여 웹과 데스크탑 애플리케이션을 개발하며, 백오피스 시스템 및 다양한 서비스 구축 경험이 있습니다.  
 아키텍처 설계부터 구현까지 효율적인 개발을 고민하며, 새로운 기술을 빠르게 익혀 실무에 적용하는 것을 좋아합니다.   -->
 
+![깃헙 기록](https://github-readme-stats.vercel.app/api?username=namgyungkim&show_icons=true&theme=radical)
+![백준](https://mazassumnida.wtf/api/v2/generate_badge?boj=knk1088)
 
 <!-- **Portfolio :** -->
 <!-- [🔗 포트폴리오 링크](https://drive.google.com/file/d/1mfK77etnNQmL9lhePphZ7NKJKu-2l8rQ/view?usp=drive_link)  -->
